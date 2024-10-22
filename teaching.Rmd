@@ -1,0 +1,138 @@
+---
+title: "Teaching"
+output: distill::distill_article
+---
+
+```{css echo = FALSE}
+.paper-title {
+  font-style: italic;
+}
+
+li {
+ line-height:1.5em;
+ padding-left:0px;
+ padding-top:5px;
+ padding-bottom:5px;
+ font-size:1rem;
+ list-style-type:none;
+ list-style:none;
+ display: table-row;
+}
+
+li:before {
+ font-family: 'Font Awesome 5 Free';
+ content: "\f15c ";
+ color: black;
+ padding-right: 15px;
+ display: table-cell;
+}
+
+.btn-outline-dark {
+	padding: 0.35rem;
+	border-radius: 6%;
+	border: solid 1px #4682b4;
+}
+
+d-article a, d-article a:hover {
+	border-bottom: dotted 1px;
+	color: #4682b4;
+}
+
+.testimonial {
+  border-left: 4px solid #333;
+  margin: 20px 0;
+  padding-left: 20px;
+  font-style: italic;
+}
+
+.quote {
+  font-size: 1.1em;
+  color: #555;
+}
+```
+
+
+*	Women, Gender & Sexuality Studies 
+*	Media & Society
+*	Communication for Social Change in Developing Countries 
+*	Gender, Media and Diversity 
+*	International Communication 
+*	Writing for Communicators
+*	Gateway to Media
+
+```{=html}
+<style>
+.testimonials-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.testimonials-header {
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 30px;
+  background: linear-gradient(90deg, #4a90e2, #9b51e0);
+  color: white;
+  border-radius: 8px;
+}
+
+.testimonials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.testimonial-card {
+  border-left: 4px solid #4a90e2;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-radius: 4px;
+}
+
+.testimonial-text {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.testimonial-meta {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+</style>
+
+<div class="testimonials-container">
+  <div class="testimonials-header">
+    <h2>What Students Have Said</h2>
+  </div>
+  
+  <div class="testimonials-grid">
+    <div class="testimonial-card">
+      <p class="testimonial-text">I valued the conversations we had about societal issues and ideas every lab. Keya made going to lab worth waking up at 7:30 every morning. She was always positive and invested in having purposeful and open conversation.</p>
+    </div>
+    
+    <div class="testimonial-card">
+      <p class="testimonial-text">I loved her passion for the subjects we went over that week. She always challenged us to think outside of the box.</p>
+    </div>
+    
+    <div class="testimonial-card">
+      <p class="testimonial-text">Brought her own background into concepts, made great examples, very personable. Super animated and made it really easy to dive into material because she made it interesting.</p>
+    </div>
+    
+    <div class="testimonial-card">
+      <p class="testimonial-text">Directions are always clearly communicated. I have ADHD and have been able to easily stay engaged in the class because the teacher leads it with a dynamic approach that alternated between lecturing,student discussion, watching videos, and exchanging knowledge.</p>
+    </div>
+    
+  </div>
+</div>
+```
+
+
+
+
