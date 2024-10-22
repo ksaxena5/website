@@ -3,7 +3,7 @@ title: "Keya Saxena"
 image: "images/ks.jpeg"
 links:
   - label: '`r fontawesome::fa("linkedin", height = "25px")`'
-    url: "www.linkedin.com/in/keya-saxena"
+    url: "https://www.linkedin.com/in/keya-saxena"
   - label: '`r fontawesome::fa("link", height = "25px")`'
     url: "https://scholar.google.com/citations?user=L-E6wvgAAAAJ&hl=en&oi=ao"    
   - label: '`r fontawesome::fa("envelope", height = "25px")`'
