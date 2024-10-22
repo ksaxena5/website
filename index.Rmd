@@ -1,0 +1,42 @@
+---
+title: "Keya Saxena"
+image: "images/ks.jpeg"
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "www.linkedin.com/in/keya-saxena"
+  - label: '`r fontawesome::fa("link", height = "25px")`'
+    url: "https://scholar.google.com/citations?user=L-E6wvgAAAAJ&hl=en&oi=ao"    
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "mailto:ksaxena5@uoregon.edu"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## About
+
+Keya Saxena is a PhD candidate in the School of Journalism and Communication and an instructor in the Department of Women, Gender & Sexuality Studies at the University of Oregon. Originally from New Delhi, Keya brings a critical cultural perspective to her work, weaving together themes of communication, social justice, and gender with a keen focus on transnational contexts. For her doctoral research, she specializes in the use of stand-up comedy as a tool for social justice. 
+
+Prior to pursuing her PhD, Keya worked in strategic communications with the United Nations in Switzerland and India, focusing on social protection, child marriage, adolescent reproductive health, gender equity, and menstrual health management.
+
+## Education
+
+**University of Oregon** | Eugene, OR
+
+Ph.D. in Communication and Media Studies | September 2019 - June 2025
+
+**University of Oregon** | Eugene, OR
+
+M.A. in Media Studies | September 2015 - June 2017
+
+**Jamia Millia Islamia University** | New Delhi, India
+
+MA in Development Communication | August 2013 - June 2015
+
+**University of Delhi** | New Delhi, India
+
+BA (Honors) Journalism | August 2010 - June 2013
